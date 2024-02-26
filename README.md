@@ -1,4 +1,4 @@
-<Nutrical-analysis-capstone-project>
+# Nutrical-analysis-capstone-project
 
 1.Introduction : In this project we have to extract meaningful information from the McDonalds menu nutritional dataset. and we have to perform exploratory data analysis to understand the nutritional distribution and trends. using Visualization we have to present the calorie count and nutrition facts of different menu items. and also we have to identify the healthy and less healthy menu options based on nutritional content . I have carried out this analysis using various python library like pandas, matplotlib,seaborn,numpy.
 
